@@ -1,0 +1,17 @@
+.DS_Store
+target/
+cust_data/
+cust_pub/
+misc/local/
+src/main/resources/com/jazva/commandline/groovy/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.classpath
+.project
+
+/screenshots/
+/.externalToolBuilders/
+/tmp/
